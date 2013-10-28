@@ -2,9 +2,9 @@ Android Sliding Down Panel
 =========================
 Change To Slide Down Mode, Modified base on Android Sliding Up Panel.
 
-![slidedown_collpased](https://raw.github.com/umano/AndroidSlidingUpPanelDemo/master/slidedown_collpased.png)
-![slidedown_expanding](https://raw.github.com/umano/AndroidSlidingUpPanelDemo/master/slidedown_expanding.png)
-![slidedown_expanded](https://raw.github.com/umano/AndroidSlidingUpPanelDemo/master/slidedown_expanded.png)
+![slidedown_collpased](https://raw.github.com/wuketidai/AndroidSlidingUpPanel/master/slidedown_collpased.jpg)
+![slidedown_expanding](https://raw.github.com/wuketidai/AndroidSlidingUpPanel/master/slidedown_expanding.jpg)
+![slidedown_expanded](https://raw.github.com/wuketidai/AndroidSlidingUpPanel/master/slidedown_expanded.jpg)
 
 
 Android Sliding Up Panel
